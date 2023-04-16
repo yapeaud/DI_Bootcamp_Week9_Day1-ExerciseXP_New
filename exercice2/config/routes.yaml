@@ -1,0 +1,3 @@
+greeting:
+    path: /greeting
+    controller: App\Controller\GreetingController::greeting
